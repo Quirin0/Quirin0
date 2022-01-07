@@ -21,4 +21,8 @@
 
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=quirin0.quirin0&label=Visitors&labelColor=7F3ACE&logo=GitHub&logoColor=000000&color=6A0DAD&style=for-the-badge)
 
+<div>
+  
 ![Snake animation](https://github.com/quirin0/quirin0/blob/output/github-contribution-grid-snake.svg)
+
+</div>
